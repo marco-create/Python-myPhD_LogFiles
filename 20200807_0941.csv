@@ -1,0 +1,152 @@
+Start of experiment, 20200807_0941
+Source file name: shape_dots.txt
+Screen resolution h: 1920
+Screen resolution v: 1080
+Diagonal inch: 27,0
+Horizontal angle: 38,88
+Screen height mm: 336,2211581400089
+Screen width mm: 597,7265033600158
+Distance mm: 846,7808531627567
+Pixel to angle multiplier: 0,02025
+Patient name: sample_test
+Data loaded, variable PARAM = Field_Scale21
+Experiment type = Staircase
+Dots/sr (S+ background layer): 9501,973933863635
+Dots/angular deg^2 (S+ background layer): 2,894491299733541
+Dot size angular deg^2 (S+ background layer): 0,10125
+Dots/sr (S- background layer): 9501,973933863635
+Dots/angular deg^2 (S- background layer): 2,894491299733541
+Dot size angular deg^2 (S- background layer): 0,10125
+Dots/sr (S+ shape layer): 9501,973933863635
+Dots/angular deg^2 (S+ shape layer): 2,894491299733541
+Dot size angular deg^2 (S+ shape layer): 0,10125
+Dots/sr (S- shape layer): 9501,973933863635
+Dots/angular deg^2 (S- shape layer): 2,894491299733541
+Dot size angular deg^2 (S- shape layer): 0,10125
+Dots/sr (S+ noise layer): 7709,512319564816
+Dots/angular deg^2 (S+ noise layer): 2,3484716427858343
+Dot size angular deg^2 (S+ noise layer): 0,10125
+Dots/sr (S- noise layer): 7709,512319564816
+Dots/angular deg^2 (S- noise layer): 2,3484716427858343
+Dot size angular deg^2 (S- noise layer): 0,10125
+Starting experiment number 1...
+Event time;Event type;Trial;Duration;Selection;Correct;Success;Experimentator;External Stimuli;Reversal;Staircase level
+169,154;Screen change
+169,667;Trial display
+173,085;Right chosen
+173,417;Trial summary;1;3,749;r;r;1;;;0;0,8
+173,421;Screen change
+173,932;Trial display
+176,785;Right chosen
+177,128;Trial summary;2;3,196;r;r;1;;;0;0,7272727272727273
+177,13;Screen change
+177,637;Trial display
+179,682;Left chosen
+180,017;Trial summary;3;2,381;l;l;1;;;0;0,6611570247933884
+180,019;Screen change
+180,527;Trial display
+182,672;Right chosen
+183,007;Trial summary;4;2,48;r;r;1;;;0;0,6010518407212622
+183,008;Screen change
+183,521;Trial display
+187,029;Left chosen
+187,364;Trial summary;5;3,843;l;l;1;;;0;0,5464107642920565
+187,368;Screen change
+187,879;Trial display
+190,334;Left chosen
+190,665;Trial summary;6;2,787;l;l;1;;;0;0,496737058447324
+190,667;Screen change
+191,176;Trial display
+193,153;Left chosen
+193,462;Trial summary;7;2,286;l;l;1;;;0;0,4515791440430218
+193,463;Screen change
+193,978;Trial display
+196,16;Right chosen
+196,51;Trial summary;8;2,532;r;r;1;;;0;0,41052649458456525
+196,511;Screen change
+197,02;Trial display
+200,458;Right chosen
+200,767;Trial summary;9;3,747;r;r;1;;;0;0,37320590416778654
+200,768;Screen change
+201,281;Trial display
+203,582;Right chosen
+203,916;Trial summary;10;2,635;r;r;1;;;0;0,33927809469798775
+203,919;Screen change
+204,429;Trial display
+208,068;Left chosen
+208,377;Trial summary;11;3,948;l;l;1;;;0;0,3084346315436252
+208,378;Screen change
+208,889;Trial display
+211,989;Left chosen
+212,331;Trial summary;12;3,442;l;l;1;;;0;0,2803951195851138
+212,333;Screen change
+212,843;Trial display
+216,081;Right chosen
+216,391;Trial summary;13;3,548;r;r;1;;;0;0,2549046541682853
+216,392;Screen change
+216,899;Trial display
+218,844;Left chosen
+218,88;Trial summary;14;1,981;l;r;0;;;1;0,23173150378935023
+218,882;Screen change
+219,392;Trial display
+222,284;Left chosen
+222,635;Trial summary;15;3,243;l;l;1;;;1;0,2549046541682853
+222,636;Screen change
+223,144;Trial display
+226,708;Right chosen
+227,04;Trial summary;16;3,896;r;r;1;;;0;0,23173150378935023
+227,041;Screen change
+227,55;Trial display
+230,085;Right chosen
+230,388;Trial summary;17;2,839;r;r;1;;;0;0,21066500344486383
+230,393;Screen change
+230,906;Trial display
+233,818;Left chosen
+234,151;Trial summary;18;3,245;l;l;1;;;0;0,19151363949533073
+234,153;Screen change
+234,663;Trial display
+237,212;Left chosen
+237,547;Trial summary;19;2,884;l;l;1;;;0;0,17410330863211884
+237,549;Screen change
+238,064;Trial display
+242,183;Right chosen
+242,522;Trial summary;20;4,457;r;r;1;;;0;0,15827573512010804
+242,523;Screen change
+243,031;Trial display
+247,54;Right chosen
+247,586;Trial summary;21;4,555;r;l;0;;;1;0,14388703192737093
+247,588;Screen change
+248,097;Trial display
+254,039;Right chosen
+254,066;Trial summary;22;5,969;r;l;0;;;0;0,15827573512010804
+254,067;Screen change
+254,579;Trial display
+259,687;Right chosen
+260,043;Trial summary;23;5,464;r;r;1;;;1;0,17410330863211884
+Field_Scale21 value for positive stimuli: 1.0
+Field_Scale21 starting value for negative stimuli: 0.6
+Trial number;PARAM;THRESHOLD;POSITIVE;
+1;0,6;0,8994216876853594;1,0;
+2;0,6363636363636364;0,8994216876853594;1,0;
+3;0,6694214876033058;0,8994216876853594;1,0;
+4;0,6994740796393689;0,8994216876853594;1,0;
+5;0,7267946178539717;0,8994216876853594;1,0;
+6;0,751631470776338;0,8994216876853594;1,0;
+7;0,7742104279784892;0,8994216876853594;1,0;
+8;0,7947367527077174;0,8994216876853594;1,0;
+9;0,8133970479161068;0,8994216876853594;1,0;
+10;0,8303609526510061;0,8994216876853594;1,0;
+11;0,8457826842281874;0,8994216876853594;1,0;
+12;0,8598024402074431;0,8994216876853594;1,0;
+13;0,8725476729158573;0,8994216876853594;1,0;
+14;0,8841342481053249;0,8994216876853594;1,0;
+15;0,8725476729158573;0,8994216876853594;1,0;
+16;0,8841342481053249;0,8994216876853594;1,0;
+17;0,8946674982775681;0,8994216876853594;1,0;
+18;0,9042431802523346;0,8994216876853594;1,0;
+19;0,9129483456839406;0,8994216876853594;1,0;
+20;0,920862132439946;0,8994216876853594;1,0;
+21;0,9280564840363146;0,8994216876853594;1,0;
+22;0,920862132439946;0,8994216876853594;1,0;
+23;0,9129483456839406;0,8994216876853594;1,0;
+260,063;Screen change
