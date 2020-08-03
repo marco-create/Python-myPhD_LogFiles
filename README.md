@@ -1,7 +1,15 @@
 # Python-DataSheets (created 02.08.2020)
-CSV and Pandas.
-The following scripts are being used during my PhD to calculate data from general LogFiles saved in CSV format.
-The data come from visual procedure written in Java (You can find it here https://github.com/grimwj/Viscacha). The visual stimuli look like 
-the ones in these videos --> https://www.youtube.com/channel/UC60ujshMHrXL6TodPkpB_UQ
+### CSV 1.0 and Pandas 1.0.3.
 
-The participant has to fixate the fixation spot and decide where the circular shape stimulus is located using directional arrows.
+Scripts which aim is to clean and organise data from [visual stimuli procedure](https://www.youtube.com/channel/UC60ujshMHrXL6TodPkpB_UQ).
+The original code written in Java can be found [here](https://github.com/grimwj/Viscacha).
+
+Procedure's administered to assess behavioral responses (accuracy and reaction time) to shapes defined by motion in different conditions.
+
+:pencil: the original [LogFile](LogFiles/Viscacha_LogFile.csv) 
+
+:heavy_check_mark: store the participant's name;
+:heavy_check_mark: store the condition name;
+:heavy_check_mark: save the responses block;
+:heavy_check_mark: create and save a clean Pandas dataframe;
+:heavy_check_mark: check reaction times and accuracy.
