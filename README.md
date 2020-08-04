@@ -3,8 +3,9 @@
 
 Scripts which aim is to clean and organise data from [visual stimuli procedure](https://www.youtube.com/channel/UC60ujshMHrXL6TodPkpB_UQ).
 The original code written in Java can be found [here](https://github.com/grimwj/Viscacha).
+Repository and code mostly for internal purpose.:office:
 
-Procedure's administered to assess behavioral responses (accuracy and reaction time) to shapes defined by motion in different conditions.
+Procedure's administered to assess behavioral responses (accuracy and reaction time) to shapes defined by motion in different conditions using a [staircase procedure](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100527504).
 
 :pencil: the original [LogFile](LogFiles/Viscacha_LogFile.csv) 
 :pencil: the resulting [Pandas DataFrame](LogFiles/_sample_test_shape_dots.txt.xlsx)
