@@ -1,8 +1,6 @@
 import csv, glob, os, pandas
 from csv import reader
-print('Libraries: imported.')
 
-## PATH TO LOGFILE
 path2csv = r'C:\Users\Marco\Documents\VS_code\viscachaReports\*.csv'
 print(path2csv)
 
@@ -25,7 +23,6 @@ for report in glob.glob(path2csv):
     answer_block = report[int(indexLine_startBlock[0])+1:]
     print('\nStart block at line {}'.format(indexLine_startBlock))
     print(answer_block[:10])
-    # add the header to the block
     header = str(report[indexLine_startBlock[0]][0]).split(';')
     print('\nHeader: {}.'.format(header))
     # keep only summary of the trial.
@@ -49,6 +46,6 @@ for report in glob.glob(path2csv):
     data2csv['Onset'] = data2csv['Onset'].apply(lambda x: float(x.split()[0].replace(',','.')))
     data2csv['Duration'] = data2csv['Duration'].apply(lambda x: float(x.split()[0].replace(',','.')))
     data2csv = data2csv[['Condition', 'Onset', 'Duration', 'Selection', 'Correct', 'Success']]
-    # save the new clean file for this participant
+
     data2csv.to_excel(r'C:\Users\Marco\Documents\VS_code\viscachaReports\_' +participant_name[0]+'_'+condition_name[0]+'.xlsx')
     print('SAVED')
